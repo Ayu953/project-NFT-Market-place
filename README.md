@@ -18,3 +18,5 @@ To build a decentralized platform where digital assets (NFTs) can be securely mi
 - Integration with ERC721 or ERC1155 token standards for better NFT compatibility.
 - Frontend dApp for better user experience.
 - Incorporate royalty payments for creators.
+
+<img width="1359" height="666" alt="image" src="https://github.com/user-attachments/assets/9e3cea00-83c3-45e4-ab3a-487222dc24a9" />
